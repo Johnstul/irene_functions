@@ -1,9 +1,7 @@
 # irene_2_z_functions
 Jupyter notebooks based on 3D plots of 2 Z functions for a colleague:
 
-z = sqrt(x^2 - y^2) and z = sqrt(y^2 - x^2)
-
-$e^{i \pi} = -1$
+<img src="https://render.githubusercontent.com/render/math?math=z = sqrt(x^2 - y^2)">
 
 You can also use the Nbviewer Online page to view the notebooks:
 
