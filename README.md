@@ -5,8 +5,6 @@ Jupyter notebooks based on 3D plots of 2 Z functions for a colleague:
 
 <img src="https://render.githubusercontent.com/render/math?math = z = sqrt(y^2 - x^2)">
 
-<img src="https://render.githubusercontent.com/render/math?math = \sqrt[n]{x})">
-
 You can also use the Nbviewer Online page to view the notebooks:
 
 https://nbviewer.jupyter.org/
