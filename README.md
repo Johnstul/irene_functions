@@ -1,5 +1,5 @@
 # irene_2_z_functions
-Jupyter notebooks based on 3D plots of 2 Z functions for a colleague:
+Jupyter notebooks based on 3D plots of 2 z functions for a colleague:
 
 <img src="https://render.githubusercontent.com/render/math?math=z=\sqrt{x^2 - y^2}">
 
